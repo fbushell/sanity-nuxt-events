@@ -6,6 +6,7 @@
         v-if="sessionsWithoutBreak"
         :sessions="sessionsWithoutBreak"
       />
+      hello
     </div>
   </section>
 </template>
